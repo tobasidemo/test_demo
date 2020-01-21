@@ -1,16 +1,18 @@
 # 模擬login登入
 使用PYTHON搭配Selenium 模擬登入github
 
-> 1.先安裝python3的版本
+- 1.先安裝python3的版本
 https://www.python.org/downloads/windows/
 
-> 2.下載chromeDriver(與系統對應的版本)
+- 2.下載chromeDriver(與系統對應的版本)
 https://sites.google.com/a/chromium.org/chromedriver/home
 
-> 3.寫CODE模擬
+- 3.寫CODE模擬
 
 code的範例如下:
+
 '''
+
 import time
 from selenium import webdriver
 
@@ -35,6 +37,7 @@ time.sleep(5)
 
 #close browser
 web.close()
+
 '''
 
 
