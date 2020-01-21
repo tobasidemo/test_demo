@@ -12,10 +12,10 @@ web.get(url)
 time.sleep(3)
 
 #input username
-web.find_element_by_id('login_field').send_keys('tobasidemo')
+web.find_element_by_id('login_field').send_keys('username')
 
 #input password
-web.find_element_by_id('password').send_keys('Tobasidemo1788')
+web.find_element_by_id('password').send_keys('password')
 
 #comit to login
 web.find_element_by_name('commit').click()
