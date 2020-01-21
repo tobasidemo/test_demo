@@ -19,7 +19,7 @@ https://sites.google.com/a/chromium.org/chromedriver/home
   <div><img src="https://i.imgur.com/h59brxL.jpg" width = "300" height = "200" alt="图片名称" align=center /></div>
   <br>
   
-進入gitgub登入網頁
+進入GIThub登入網頁
  <div><img src="https://i.imgur.com/v1nTpJi.jpg" width = "300" height = "200" alt="图片名称" align=center /></div>
   <br>
  
@@ -27,7 +27,7 @@ https://sites.google.com/a/chromium.org/chromedriver/home
 <div> <img src="https://i.imgur.com/aJYOMgg.jpg" width = "300" height = "200" alt="图片名称" align=center /></div>
  <br>
 
-正確進入到gitgub個人頁
+正確進入到GIThub個人頁
 <div> <img src="https://i.imgur.com/K0KtOVv.jpg" width = "300" height = "200" alt="图片名称" align=center /></div>
 
 ---------------------------------------------------
